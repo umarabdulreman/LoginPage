@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="userget">Enter User Name\n</string>
+    <string name="get">Enter User Name</string>
+    <string name="pass">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="checkbox">remember my id</string>
+    <string name="forgot">Forgot Password</string>
+
+</resources>
